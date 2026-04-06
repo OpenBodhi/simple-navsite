@@ -52,6 +52,7 @@ export const pinnedSites: Site[] = [
   { name: 'RuoYi-Plus', url: 'https://plus-doc.dromara.org/' },
   { name: 'RuoYi', url: 'https://ruoyi.vip/' },
   { name: 'dromara', url: 'https://dromara.org/zh/' },
+  { name: 'knife4j', url: 'https://doc.xiaominfo.com/' },
 ]
 
 // 侧边栏网站分类
