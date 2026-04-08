@@ -53,6 +53,10 @@ export const pinnedSites: Site[] = [
   { name: 'RuoYi', url: 'https://ruoyi.vip/' },
   { name: 'dromara', url: 'https://dromara.org/zh/' },
   { name: 'knife4j', url: 'https://doc.xiaominfo.com/' },
+  { name: 'maven', url: 'https://central.sonatype.com/search' },
+  { name: 'springboot-init', url: 'https://start.spring.io/' },
+  { name: 'snailjob', url: 'https://snailjob.opensnail.com/' },
+  { name: 'xxl-job', url: 'http://www.xuxueli.com/xxl-job' },
 ]
 
 // 侧边栏网站分类
