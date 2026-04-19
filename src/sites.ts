@@ -57,6 +57,7 @@ export const pinnedSites: Site[] = [
   { name: 'springboot-init', url: 'https://start.spring.io/' },
   { name: 'snailjob', url: 'https://snailjob.opensnail.com/' },
   { name: 'xxl-job', url: 'http://www.xuxueli.com/xxl-job' },
+  { name: 'hutool', url: 'https://www.hutool.cn/' },
 ]
 
 // 侧边栏网站分类
