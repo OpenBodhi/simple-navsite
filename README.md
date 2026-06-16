@@ -4,13 +4,17 @@
 
 ## 效果
 
-[demo](https://nav.oby.ink)
+[demo](https://nav.oby.cc.cd)
+
+PC端效果：
 
 ![image-20260117084333194](./.README.assets/image-20260117084333194.png)
 
 ![image-20260117084350379](./.README.assets/image-20260117084350379.png)
 
 ![image-20260117084429253](./.README.assets/image-20260117084429253.png)
+
+手机端效果：
 
 ![image-20260117084450963](./.README.assets/image-20260117084450963.png)
 
