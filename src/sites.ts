@@ -59,7 +59,12 @@ export const pinnedSites: Site[] = [
   { name: 'pureadmin', url: 'https://pure-admin.cn/' },
   { name: 'liwenzhou', url: 'https://www.liwenzhou.com/' },
   { name: 'Youlai', url: 'https://www.youlai.tech/vue-docs/' },
-
+  { name: 'deepseek', url: 'https://chat.deepseek.com/' },
+  { name: '豆包', url: 'https://www.doubao.com/' },
+  { name: 'coze', url: 'https://www.coze.cn/' },
+  { name: 'dify', url: 'https://dify.ai/zh' },
+  { name: '即梦AI', url: 'https://jimeng.jianying.com/' },
+  { name: '可灵AI', url: 'https://klingai.com' },
 ]
 
 // 侧边栏网站分类
