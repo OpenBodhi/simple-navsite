@@ -60,6 +60,7 @@ export const pinnedSites: Site[] = [
   { name: 'liwenzhou', url: 'https://www.liwenzhou.com/' },
   { name: 'Youlai', url: 'https://www.youlai.tech/vue-docs/' },
   { name: 'deepseek', url: 'https://chat.deepseek.com/' },
+  { name: '硅基流动', url: 'https://www.siliconflow.cn/' },
   { name: '豆包', url: 'https://www.doubao.com/' },
   { name: 'coze', url: 'https://www.coze.cn/' },
   { name: 'dify', url: 'https://dify.ai/zh' },
