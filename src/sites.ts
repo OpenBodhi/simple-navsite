@@ -71,6 +71,20 @@ export const pinnedSites: Site[] = [
 // 侧边栏网站分类
 export const categories: Category[] = [
   {
+    name: 'MCP-Server',
+    sites: [
+      { name: '官方MCP', url: 'https://github.com/modelcontextprotocol/servers' },
+      { name: 'awesome-mcp', url: 'https://github.com/punkpeye/awesome-mcp-servers' },
+      { name: 'mcp.so', url: 'https://mcp.so/zh' },
+      { name: 'mcpmarket', url: 'https://mcpmarket.com/zh' },
+      { name: 'mcpworld', url: 'https://www.mcpworld.com/mcp' },
+      { name: 'glama-mcp', url: 'https://glama.ai/mcp/servers' },
+      { name: 'smithery-mcp', url: 'https://smithery.ai' },
+      { name: '阿里云百炼MCP', url: 'https://bailian.console.aliyun.com/cn-beijing?tab=app#/mcp-market' },
+      { name: 'cursor-mcp', url: 'https://cursor.directory' }
+    ],
+  },
+  {
     name: '排行',
     sites: [
       { name: '互联网技术', url: 'https://w3techs.com/' },
