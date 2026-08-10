@@ -60,19 +60,24 @@ export const pinnedSites: Site[] = [
   { name: 'liwenzhou', url: 'https://www.liwenzhou.com/' },
   { name: 'Youlai', url: 'https://www.youlai.tech/vue-docs/' },
   { name: 'deepseek', url: 'https://chat.deepseek.com/' },
-  { name: '硅基流动', url: 'https://www.siliconflow.cn/' },
-  { name: 'ollama', url: 'https://ollama.com/' },
-  { name: '豆包', url: 'https://www.doubao.com/' },
-  { name: 'coze', url: 'https://www.coze.cn/' },
-  { name: 'dify', url: 'https://dify.ai/zh' },
-  { name: '即梦AI', url: 'https://jimeng.jianying.com/' },
-  { name: '可灵AI', url: 'https://klingai.com' },
 ]
 
 // 侧边栏网站分类
 export const categories: Category[] = [
+    {
+    name: 'AI大模型',
+    sites: [
+      { name: 'llama.cpp运行工具', url: 'https://llama.app/' },
+      { name: 'ollama运行工具', url: 'https://ollama.com/' },
+      { name: '魔搭模型仓库', url: 'https://www.modelscope.cn/' },
+      { name: 'huggingface模型仓库', url: 'https://huggingface.co/' },
+      { name: 'deepseek', url: 'https://deepseek.com/' },
+      { name: '硅基流动', url: 'https://www.siliconflow.cn/' },
+      { name: '千问AI平台', url: 'https://www.qianwenai.com/' },
+    ],
+  },
   {
-    name: 'MCP-Server',
+    name: 'AI MCP服务器',
     sites: [
       { name: '官方MCP', url: 'https://github.com/modelcontextprotocol/servers' },
       { name: 'awesome-mcp', url: 'https://github.com/punkpeye/awesome-mcp-servers' },
@@ -83,6 +88,16 @@ export const categories: Category[] = [
       { name: 'smithery-mcp', url: 'https://smithery.ai' },
       { name: '阿里云百炼MCP', url: 'https://bailian.console.aliyun.com/cn-beijing?tab=app#/mcp-market' },
       { name: 'cursor-mcp', url: 'https://cursor.directory' }
+    ],
+  },
+  {
+    name: 'AI智能体',
+    sites: [
+      { name: '豆包', url: 'https://www.doubao.com/' },
+      { name: 'coze', url: 'https://www.coze.cn/' },
+      { name: 'dify', url: 'https://dify.ai/zh' },
+      { name: '即梦AI', url: 'https://jimeng.jianying.com/' },
+      { name: '可灵AI', url: 'https://klingai.com' },
     ],
   },
   {
