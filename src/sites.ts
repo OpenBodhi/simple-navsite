@@ -5,6 +5,7 @@ export const pinnedSites: Site[] = [
   { name: '开源中国', url: 'https://www.oschina.net/' },
   { name: 'InfoQ', url: 'https://www.infoq.cn/' },
   { name: '今日热榜', url: 'https://tophub.today/' },
+  { name: 'Boss直聘', url: 'https://www.zhipin.com/' },
   { name: 'GitHub', url: 'https://github.com' },
   { name: 'Gitee', url: 'https://gitee.com/' },
   { name: 'dockerhub', url: 'https://hub.docker.com/' },
