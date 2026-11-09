@@ -12,6 +12,7 @@ export const pinnedSites: Site[] = [
   { name: '豆瓣', url: 'https://douban.com/' },
   { name: '知乎', url: 'https://www.zhihu.com' },
   { name: '大疆', url: 'https://www.dji.com/cn' },
+  { name: '影石', url: 'https://www.insta360.com/cn/' },
   { name: '小米', url: 'https://mi.com/' },
   { name: 'vivo', url: 'https://www.vivo.com.cn/' },
   { name: 'oppo', url: 'https://www.oppo.com/' },
