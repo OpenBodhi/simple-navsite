@@ -99,6 +99,8 @@ export const categories: Category[] = [
       { name: 'snailjob', url: 'https://snailjob.opensnail.com/' },
       { name: 'xxl-job', url: 'http://www.xuxueli.com/xxl-job' },
       { name: 'hutool', url: 'https://www.hutool.cn/' },
+      { name: 'sxt', url: 'https://www.bjsxt.com/' },
+      { name: 'itheima', url: 'https://www.itheima.com/' },
     ],
   },
   {
